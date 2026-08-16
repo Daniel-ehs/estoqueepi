@@ -1,0 +1,6 @@
+{
+  "name": "Vivo EPI Control Pro",
+  "description": "Sistema Vivo para gestão de almoxarifado de EPIs, controle de lotes diários, múltiplas localidades e cálculo automático de kits e gargalos de estoque conforme NR-6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
